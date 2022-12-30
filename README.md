@@ -1,4 +1,4 @@
-Implementation of ECDSA on secp256k1: elliptic curve used in bitcoin
+# Python implementation of ECDSA on secp256k1 curve: elliptic curve used in bitcoin
 
 ### Instructions
 
